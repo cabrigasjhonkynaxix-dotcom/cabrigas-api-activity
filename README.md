@@ -16,4 +16,4 @@ Markdown
  - Why is it important to return `404` instead of just an empty array or a generic error?
     - Answer: This preserves the semantic meaning of the API, which this will indicates that the resource was nowhere to be found.
 **4. Testing:**
-    - (Paste a screenshot of a successful GET request here)
+    ![API Result](ss.png.png)
