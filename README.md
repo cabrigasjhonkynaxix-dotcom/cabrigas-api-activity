@@ -1,5 +1,5 @@
 Markdown
-# RESTful API Activity - Christopher C. Aranas
+# RESTful API Activity - Jhon Kyn Axix H. Cabrigas
 ## Best Practices Implementation
 **1. Environment Variables:**
 - Why did we put `BASE_URI` in `.env` instead of hardcoding it?
