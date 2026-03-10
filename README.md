@@ -26,6 +26,7 @@ Markdown
 
 - "Why did I choose to Reference the [Chef/User/Guest]?"
 - Answer: I referenced the Chef because a Chef can have many Dishes, and we don’t want to duplicate Chef information in every Dish. Referencing keeps the Chef’s details in one place, makes updates easier, and avoids data redundancy.
+<<<<<<< HEAD
 
 
 **1. Authentication vs Authorization:**
@@ -42,3 +43,5 @@ MongoDB?
 - What does the protect middleware do when it receives a JWT from the
 client?
    - Answer: The protect middleware checks the JSON Web Token sent by the client, verifies if it is valid, and allows the user to access protected routes if the token is correct.
+=======
+>>>>>>> da8fcb586a6057a13d042a283c2777f4b3541187
